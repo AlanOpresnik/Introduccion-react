@@ -56,7 +56,7 @@ npm start
 Un proyecto de React generalmente tiene la siguiente estructura:
 
 mi-proyecto/
-│── node_modules/       # Dependencias instaladas
+│── node_modules/       # Dependencias instaladas \n
 │── public/             # Archivos estáticos (favicon, imágenes, etc.)
 │── src/                # Código fuente principal
 │   ├── assets/         # Recursos estáticos (CSS, imágenes, fuentes, etc.)
