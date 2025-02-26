@@ -55,8 +55,9 @@ npm start
 
 Un proyecto de React generalmente tiene la siguiente estructura:
 
+```
 mi-proyecto/
-│── node_modules/       # Dependencias instaladas \n
+│── node_modules/       # Dependencias instaladas
 │── public/             # Archivos estáticos (favicon, imágenes, etc.)
 │── src/                # Código fuente principal
 │   ├── assets/         # Recursos estáticos (CSS, imágenes, fuentes, etc.)
@@ -72,7 +73,7 @@ mi-proyecto/
 │── package.json        # Configuración del proyecto y dependencias
 │── vite.config.js      # Configuración de Vite
 │── README.md           # Documentación del proyecto
-
+```
 
 5. Ejecutar el Proyecto
 
